@@ -1,0 +1,51 @@
+{
+    "nav":
+    {
+        "gallery": "GALERIE",
+        "vfxPacks": "PACKS D'EFFETS VISUELS"
+    },
+
+    "home": 
+    {
+        "heroOverlay": "Contenu de Niveau Épique",
+        "galleryBtn": "Galerie",
+        "vfxPacksHeader": "Packs d'Effets Visuels",
+        "vfxPacksDesc": "Effets visuels de niveau épique",
+        "vfxPacksDesc2": "pour le contenu d'action",
+        "vfxPacksBtn": "Packs",
+        "workedWithHeader": "Avec Qui j'ai Travaillé",
+
+        "contactForm": 
+        {
+            "header": "Travaillons ensemble!",
+            "namePlaceholder": "Nom",
+            "emailPlaceholder": "Addresse Courriel",
+            "messagePlaceholder": "Message",
+            "submitBtn": "Envoyer"
+        }
+    },
+
+    "gallery":
+    {
+        "mainHeader": "Galerie",
+
+        "osuFilmsIgtv": "IGTV de Osu Films",
+        "theModernNinja": "Le Ninja Moderne",
+        "valorantGuide": "Guide de Valorant",
+        "tsmMythReel": "Bobine de TSM Myth",
+
+        "motiversityHeader": "Mon Travail",
+
+        "iWillWin": "Je Vais Gagner"
+    },
+
+    "vfxPacks":
+    {
+        "mainHeader": "Packs d'Effets Visuels",
+        
+        "fireHeader": "Feu",
+        "fireDesc": "Un gabarit simple et",
+        "fireDesc2": "polyvalent pour After Effects",
+        "fireDownloadBtn": "Télécharger"
+    }
+}
