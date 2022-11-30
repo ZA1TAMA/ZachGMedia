@@ -52,5 +52,10 @@
         "fireDesc": "A simple and versatile fire",
         "fireDesc2": "template for After Effects.",
         "fireDownloadBtn": "Download"
+    },
+
+    "footer":
+    {
+        "credit": "Site programmed by Ethan Briffett"
     }
 }

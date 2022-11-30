@@ -51,5 +51,10 @@
         "fireDesc": "Un gabarit simple et",
         "fireDesc2": "polyvalent pour After Effects",
         "fireDownloadBtn": "Télécharger"
+    },
+
+    "footer":
+    {
+        "credit": "Site programmé par Ethan Briffett"
     }
 }
